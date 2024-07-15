@@ -2,9 +2,15 @@
 <h3 align="center">A passionate Full Stack Developer and an Aspiring Writer</h3>
 <br>
 
-[![GitHub gracygulati7](https://img.shields.io/github/followers/gracygulati7?label=follow&style=social)](https://github.com/gracygulati7)
-[![Linkedin: Gracy Gulati](https://img.shields.io/badge/-Gracy%20Gulati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracy-gulati-956061292/)](https://www.linkedin.com/in/gracy-gulati-956061292/)
-<img src="https://komarev.com/ghpvc/?username=gracygulati7&label=Visitors&color=blue&style=plastic" alt="gracygulati7" />
+<p align="center">
+  <a href="https://github.com/gracygulati7">
+    <img src="https://img.shields.io/github/followers/gracygulati7?label=follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/gracy-gulati-956061292/">
+    <img src="https://img.shields.io/badge/-Gracy%20Gulati-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gracygulati7&label=Visitors&color=blue&style=plastic" alt="Profile views">
+</p>
 
 
 - 🎓3rd Year Bachelor of Engineering student specializing in Computer Science @ChitkaraUniversity.
