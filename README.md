@@ -7,8 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=gracygulati7&label=Visitors&color=blue&style=plastic" alt="gracygulati7" />
 
 
-I am a Full Stack Developer | Third Year Computer Science Student
-
 - 👨‍💻 3rd Year Computer Science Student @ChitkaraUniversity
 - 🌱 I’m currently learning about MERN Stack
 - 👯 I’m looking to collaborate on projects of Web Development and AI/ML
