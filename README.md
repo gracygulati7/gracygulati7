@@ -30,10 +30,10 @@ I am a Full Stack Developer | Third Year Computer Science Student
 <img align="left" alt="Gracy Gulati | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
-
 <a href="https://leetcode.com/u/gracy_gulati/">
 <img align="left" alt="Gracy Gulati | Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
 </a>
  
-
-
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCblSDbLRZMwcddslLSktvNZgXJwdpDHklCpGrjkSHCXzxzKqGltwcLVZrkbNJSnnKZMXx">
+<img align="left" alt="gracy331.be22@chitkara.edu.in | Gmail" width="30px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" />
+</a>
