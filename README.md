@@ -7,12 +7,13 @@
 <img src="https://komarev.com/ghpvc/?username=gracygulati7&label=Visitors&color=blue&style=plastic" alt="gracygulati7" />
 
 
-- 👨‍💻 3rd Year Computer Science Student @ChitkaraUniversity
-- 🌱 I’m currently learning about MERN Stack
-- 👯 I’m looking to collaborate on projects of Web Development and AI/ML
+- 🎓3rd Year Bachelor of Engineering student specializing in Computer Science @ChitkaraUniversity.
+- 💻 Passionate about Machine Learning and Web Development.
+- 📚 Currently learning and working on MERN Stack.
 - 💬 Ask me about anything, Happy to help :)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Born to be a writer✍🏻, forced to be a coder👩🏻‍💻
+- 📍 Based in India, fluent in Hindi and English.
 
 ### Connect with me here
 
@@ -32,7 +33,27 @@
 <img align="left" alt="Gracy Gulati | Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
 </a>
 
- <a href="mailto:gracy331.be22@chitkara.edu.in">
+<a href="mailto:gracy331.be22@chitkara.edu.in">
   <img align="left" alt="Gracy Gulati | Email" width="30px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" />
 </a>
 
+<br><br>
+
+### Projects
+
+- **[NeuroVision](https://multiple-disease-prediction-apse-aiml.streamlit.app/)** : It is a Multi Disease Prediction Website made using AI/ML. 
+- **[KBC Quiz](https://gracygulati7.github.io/KBC/)** : A fun and interactive Quiz Website inspired by KBC made using ReactJs.
+- **[Devotions](https://gracygulati7.github.io/DEVOTIONS/)**: A fully responsive quotes website build using HTML, CSS, and JavaScript.
+
+## Statistics
+
+<p align="center">
+<img height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=gracygulati7&theme=tokyonight" alt="gracygulati7"/> 
+</p>
+
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gracygulati7&show_icons=true&theme=tokyonight" alt="My github stats" height="160"/></p>
+
+<p align="center">
+<img align="right" height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracygulati7&layout=compact&theme=tokyonight" alt="languages"/> 
+</p>
