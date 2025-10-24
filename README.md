@@ -13,12 +13,11 @@
 </p>
 
 
-- 🎓3rd Year Bachelor of Engineering student specializing in Computer Science @ChitkaraUniversity.
+- 🎓 Final Year Bachelor of Engineering student specializing in Computer Science @ChitkaraUniversity.
 - 💻 Passionate about Machine Learning and Web Development.
 - 📚 Currently learning and working on MERN Stack.
 - 💬 Ask me about anything, Happy to help :)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Born to be a writer✍🏻, forced to be a coder👩🏻‍💻
 - 📍 Based in India, fluent in Hindi and English.
 
 ### Connect with me here
