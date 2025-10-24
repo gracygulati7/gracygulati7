@@ -46,7 +46,7 @@
 
 ### Projects
 
-- **[GuardianX](https://guardian-x.vercel.app)** : A Women Safety and Elderly Care Platform built using MERN Stack.
+- **[GuardianX](https://guardianx-iota.vercel.app/)** : A Women Safety and Elderly Care Platform built using MERN Stack.
 - **[NeuroVision](https://multiple-disease-prediction-apse-aiml.streamlit.app/)** : It is a Multi Disease Prediction Website made using AI/ML. 
 - **[LunaWellness](https://gracygulati7.github.io/LunaWellness/)**: A period Wellness website for girls made using HTML, CSS and JS.
 
