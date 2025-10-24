@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gracy Gulati</h1>
-<h3 align="center">A passionate Full Stack Developer and an Aspiring Writer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <br>
 
 <p align="center">
@@ -46,9 +46,9 @@
 
 ### Projects
 
+- **[GuardianX](guardian-x.vercel.app)** : A Women Safety and Elderly Care Platform built using MERN Stack.
 - **[NeuroVision](https://multiple-disease-prediction-apse-aiml.streamlit.app/)** : It is a Multi Disease Prediction Website made using AI/ML. 
-- **[KBC Quiz](https://gracygulati7.github.io/KBC/)** : A fun and interactive Quiz Website inspired by KBC made using ReactJs.
-- **[Devotions](https://gracygulati7.github.io/DEVOTIONS/)**: A fully responsive quotes website build using HTML, CSS, and JavaScript.
+- **[LunaWellness](gracygulati7.github.io/LunaWellness/)**: A period Wellness website for girls made using HTML, CSS and JS.
 
 ## Statistics
 
